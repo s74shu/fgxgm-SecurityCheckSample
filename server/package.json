@@ -20,5 +20,6 @@
     "http-errors": "^2.0.0",
     "passport": "0.6.0",
     "uuid": "^8.3.2"
+    "body-paeser": "^1.20.3"
   }
 }
